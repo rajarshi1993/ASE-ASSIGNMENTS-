@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\gvr-android-sdk-master\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\passthrough_fragment.shader",
+        "source": "C:\\Users\\user\\Desktop\\gvr-android-sdk-master\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\passthrough_fragment.shader"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\gvr-android-sdk-master\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\light_vertex.shader",
+        "source": "C:\\Users\\user\\Desktop\\gvr-android-sdk-master\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\light_vertex.shader"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\gvr-android-sdk-master\\samples\\sdk-treasurehunt\\build\\intermediates\\res\\merged\\debug\\raw\\grid_fragment.shader",
+        "source": "C:\\Users\\user\\Desktop\\gvr-android-sdk-master\\samples\\sdk-treasurehunt\\src\\main\\res\\raw\\grid_fragment.shader"
+    }
+]
